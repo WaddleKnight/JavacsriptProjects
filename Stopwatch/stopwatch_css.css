@@ -1,0 +1,31 @@
+body {
+    background: #000000;
+}
+.time {
+    width: 800px;
+    margin: 30px auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:darkgray;
+    font-size: 4.2em;
+}
+p#x {
+    color:darkgray;
+    font-size: 6em;
+}
+button {
+    background: black;
+    color: darkgray;
+    border: solid 1px darkgray;
+    font-size:1.2em;
+    padding:15px 8px;
+    width:170px;
+    margin: 8px;
+    border-radius: 10px;
+}
+button:hover{
+    background: darkblue;
+    transition: 0.6s;
+}
